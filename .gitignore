@@ -1,0 +1,17 @@
+*.pyc
+locust.wpr
+locust.egg-info/**
+locustio.egg-info/**
+docs/_build/**
+docs/cli-help-output.txt
+docs/config-options.rst
+mock.*.egg
+dist/**
+.idea/**
+*.iml
+*.ipr
+.vagrant
+build/
+.coverage
+.tox/
+docs/env-options.rst
