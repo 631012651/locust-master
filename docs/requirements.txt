@@ -57,7 +57,7 @@ decorator==4.4.1
 defusedxml==0.6.0
 diff-match-patch==20181111
 distlib==0.3.0
-distributed==2.11.0
+distributed==2021.10.0
 Django==2.0.3
 django-celery==3.2.2
 django-ranged-response==0.2.0
